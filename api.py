@@ -199,6 +199,24 @@ def dh_response(fish: dict) -> dict:
     }
 
 
+@app.get("/")
+def root():
+    return {
+        "name": "Masveriyaa Fish API",
+        "description": "Searchable API for 370 fish species of the Maldives",
+        "docs": "/docs",
+        "endpoints": {
+            "search_english": "/api/en/search?q=shark",
+            "search_dhivehi": "/api/dh/search?q=miyaru",
+            "search_dhivehi": "/api/dh/search?q=މިޔަރު",
+            "get_fish_by_id": "/api/en/fish/{id}",
+            "get_fish_by_slug": "/api/fish/slug/{slug}",
+            "list_families": "/api/families",
+            "stats": "/api/stats",
+        },
+    }
+
+
 @app.get("/api/fish")
 def list_fish(
     q: Optional[str] = Query(None, description="Search query (name, family, etc.)"),
