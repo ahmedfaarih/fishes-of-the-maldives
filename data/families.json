@@ -1,0 +1,744 @@
+[
+  {
+    "family": "GINGLYMOSTOMATIDAE",
+    "count": 1,
+    "species": [
+      1
+    ]
+  },
+  {
+    "family": "STEGOSTOMATIDAE",
+    "count": 1,
+    "species": [
+      2
+    ]
+  },
+  {
+    "family": "RHINCODONTIDAE",
+    "count": 1,
+    "species": [
+      3
+    ]
+  },
+  {
+    "family": "TRIAKIDAE",
+    "count": 1,
+    "species": [
+      4
+    ]
+  },
+  {
+    "family": "HEMIGALEIDAE",
+    "count": 1,
+    "species": [
+      5
+    ]
+  },
+  {
+    "family": "CARCHARHINIDAE",
+    "count": 14,
+    "species": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ]
+  },
+  {
+    "family": "ODONTASPIDIDAE",
+    "count": 1,
+    "species": [
+      20
+    ]
+  },
+  {
+    "family": "ALOPIDAE",
+    "count": 1,
+    "species": [
+      21
+    ]
+  },
+  {
+    "family": "ALOPIIDAE",
+    "count": 1,
+    "species": [
+      22
+    ]
+  },
+  {
+    "family": "LAMNIDAE",
+    "count": 1,
+    "species": [
+      23
+    ]
+  },
+  {
+    "family": "HEXANCHIDAE",
+    "count": 2,
+    "species": [
+      24,
+      25
+    ]
+  },
+  {
+    "family": "DALATIIDAE",
+    "count": 1,
+    "species": [
+      26
+    ]
+  },
+  {
+    "family": "CLUPEIDAE",
+    "count": 4,
+    "species": [
+      27,
+      28,
+      29,
+      30
+    ]
+  },
+  {
+    "family": "PLOTOSIDAE",
+    "count": 1,
+    "species": [
+      31
+    ]
+  },
+  {
+    "family": "ALEPISAURIDAE",
+    "count": 1,
+    "species": [
+      32
+    ]
+  },
+  {
+    "family": "ANTENNARIIDAE",
+    "count": 3,
+    "species": [
+      33,
+      34,
+      35
+    ]
+  },
+  {
+    "family": "ATHERINIDAE",
+    "count": 2,
+    "species": [
+      36,
+      37
+    ]
+  },
+  {
+    "family": "EXOCOETIDAE",
+    "count": 2,
+    "species": [
+      38,
+      39
+    ]
+  },
+  {
+    "family": "HOLOCENTRIDAE",
+    "count": 17,
+    "species": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56
+    ]
+  },
+  {
+    "family": "SYNGNATHIDAE",
+    "count": 3,
+    "species": [
+      57,
+      58,
+      59
+    ]
+  },
+  {
+    "family": "FISTULARIDAE",
+    "count": 2,
+    "species": [
+      60,
+      61
+    ]
+  },
+  {
+    "family": "SCORPAENIDAE",
+    "count": 3,
+    "species": [
+      62,
+      63,
+      64
+    ]
+  },
+  {
+    "family": "SERRANIDAE",
+    "count": 42,
+    "species": [
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106
+    ]
+  },
+  {
+    "family": "PLESIOPIDAE",
+    "count": 1,
+    "species": [
+      107
+    ]
+  },
+  {
+    "family": "PRIACANTHIDAE",
+    "count": 1,
+    "species": [
+      108
+    ]
+  },
+  {
+    "family": "APOGONIDAE",
+    "count": 7,
+    "species": [
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115
+    ]
+  },
+  {
+    "family": "ECHENEIDAE",
+    "count": 2,
+    "species": [
+      116,
+      117
+    ]
+  },
+  {
+    "family": "RACHYCENTRIDAE",
+    "count": 1,
+    "species": [
+      118
+    ]
+  },
+  {
+    "family": "CORYPHAENIDAE",
+    "count": 2,
+    "species": [
+      119,
+      120
+    ]
+  },
+  {
+    "family": "CARANGIDAE",
+    "count": 20,
+    "species": [
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140
+    ]
+  },
+  {
+    "family": "LUTJANIDAE",
+    "count": 26,
+    "species": [
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166
+    ]
+  },
+  {
+    "family": "LOBOTIDAE",
+    "count": 1,
+    "species": [
+      167
+    ]
+  },
+  {
+    "family": "GERREIDAE",
+    "count": 1,
+    "species": [
+      168
+    ]
+  },
+  {
+    "family": "HAEMULIDAE",
+    "count": 4,
+    "species": [
+      169,
+      170,
+      171,
+      172
+    ]
+  },
+  {
+    "family": "LETHRINIDAE",
+    "count": 7,
+    "species": [
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179
+    ]
+  },
+  {
+    "family": "NEMIPTERIDAE",
+    "count": 2,
+    "species": [
+      180,
+      181
+    ]
+  },
+  {
+    "family": "POLYNEMIDAE",
+    "count": 1,
+    "species": [
+      182
+    ]
+  },
+  {
+    "family": "MULLIDAE",
+    "count": 3,
+    "species": [
+      183,
+      184,
+      185
+    ]
+  },
+  {
+    "family": "CHAETODONTIDAE",
+    "count": 27,
+    "species": [
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196,
+      197,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      210,
+      211,
+      212
+    ]
+  },
+  {
+    "family": "POMACANTHIDAE",
+    "count": 7,
+    "species": [
+      213,
+      214,
+      215,
+      216,
+      217,
+      218,
+      219
+    ]
+  },
+  {
+    "family": "KYPHOSIDAE",
+    "count": 1,
+    "species": [
+      220
+    ]
+  },
+  {
+    "family": "TERAPONIDAE",
+    "count": 1,
+    "species": [
+      221
+    ]
+  },
+  {
+    "family": "KUHLIIDAE",
+    "count": 1,
+    "species": [
+      222
+    ]
+  },
+  {
+    "family": "CIRRHITIDAE",
+    "count": 3,
+    "species": [
+      223,
+      224,
+      225
+    ]
+  },
+  {
+    "family": "CICHLIDAE",
+    "count": 1,
+    "species": [
+      226
+    ]
+  },
+  {
+    "family": "POMACENTRIDAE",
+    "count": 20,
+    "species": [
+      227,
+      228,
+      229,
+      230,
+      231,
+      232,
+      233,
+      234,
+      235,
+      236,
+      237,
+      238,
+      239,
+      240,
+      241,
+      242,
+      243,
+      244,
+      245,
+      246
+    ]
+  },
+  {
+    "family": "LABRIDAE",
+    "count": 40,
+    "species": [
+      247,
+      248,
+      249,
+      250,
+      251,
+      252,
+      253,
+      254,
+      255,
+      256,
+      257,
+      258,
+      259,
+      260,
+      261,
+      262,
+      263,
+      264,
+      265,
+      266,
+      267,
+      268,
+      269,
+      270,
+      271,
+      272,
+      273,
+      274,
+      275,
+      276,
+      277,
+      278,
+      279,
+      280,
+      281,
+      282,
+      283,
+      284,
+      285,
+      286
+    ]
+  },
+  {
+    "family": "PINGUIPEDIDAE",
+    "count": 4,
+    "species": [
+      287,
+      288,
+      289,
+      290
+    ]
+  },
+  {
+    "family": "BLENNIIDAE",
+    "count": 7,
+    "species": [
+      291,
+      292,
+      293,
+      294,
+      295,
+      296,
+      297
+    ]
+  },
+  {
+    "family": "GOBIIDAE",
+    "count": 5,
+    "species": [
+      298,
+      299,
+      300,
+      301,
+      302
+    ]
+  },
+  {
+    "family": "MICRODESMIDAE",
+    "count": 2,
+    "species": [
+      303,
+      304
+    ]
+  },
+  {
+    "family": "SIGANIDAE",
+    "count": 1,
+    "species": [
+      305
+    ]
+  },
+  {
+    "family": "ZANCLIDAE",
+    "count": 1,
+    "species": [
+      306
+    ]
+  },
+  {
+    "family": "ACANTHURIDAE",
+    "count": 16,
+    "species": [
+      307,
+      308,
+      309,
+      310,
+      311,
+      312,
+      313,
+      314,
+      315,
+      316,
+      317,
+      318,
+      319,
+      320,
+      321,
+      322
+    ]
+  },
+  {
+    "family": "GEMPYLIDAE",
+    "count": 5,
+    "species": [
+      323,
+      324,
+      325,
+      326,
+      327
+    ]
+  },
+  {
+    "family": "SCOMBRIDAE",
+    "count": 11,
+    "species": [
+      328,
+      329,
+      330,
+      331,
+      332,
+      333,
+      334,
+      335,
+      336,
+      337,
+      338
+    ]
+  },
+  {
+    "family": "XIPHIDAE",
+    "count": 4,
+    "species": [
+      339,
+      340,
+      341,
+      342
+    ]
+  },
+  {
+    "family": "NOMEIDAE",
+    "count": 1,
+    "species": [
+      343
+    ]
+  },
+  {
+    "family": "BALISTIDAE",
+    "count": 14,
+    "species": [
+      344,
+      345,
+      346,
+      347,
+      348,
+      349,
+      350,
+      351,
+      352,
+      353,
+      354,
+      355,
+      356,
+      357
+    ]
+  },
+  {
+    "family": "MONACANTHIDAE",
+    "count": 5,
+    "species": [
+      358,
+      359,
+      360,
+      361,
+      362
+    ]
+  },
+  {
+    "family": "OSTRACIIDAE",
+    "count": 2,
+    "species": [
+      363,
+      364
+    ]
+  },
+  {
+    "family": "TETRAODONTIDAE",
+    "count": 6,
+    "species": [
+      365,
+      366,
+      367,
+      368,
+      369,
+      370
+    ]
+  }
+]
