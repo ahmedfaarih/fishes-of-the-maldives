@@ -202,7 +202,7 @@ def dh_response(fish: dict) -> dict:
 @app.get("/")
 def root():
     return {
-        "name": "Masveriyaa Fish API",
+        "name": "Masveriyaa API",
         "description": "Searchable API for 370 fish species of the Maldives",
         "docs": "/docs",
         "endpoints": {
